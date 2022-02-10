@@ -1,4 +1,4 @@
-* {
+a {
     text-decoration: none;
 }
 
@@ -7,30 +7,23 @@ ul {
 }
 
 .back_color {
-    width: 1140px;
-    height: 743px;
+    width: 1440px;
     background-color: #0865DE;
 }
 
-
 .font_px {
     font-size: 12px;
-    line-height: 18px;
     color: #FFFFFF;
-
 }
 
 .color_white {
     font-size: 30px;
-    line-height: 43px;
     color: #FFFFFF;
-
 
 }
 
 .px_font {
     font-size: 14px;
-    line-height: 33,3px;
     color: #D1D1D1;
    
 
@@ -38,14 +31,11 @@ ul {
 
 .color_fff {
     font-size: 25px;
-    line-height: 30px;
     color: #FFFFFF;
    
 }
 
 .size_px {
     font-size: 14px;
-    line-height: 44px;
     color: #D1D1D1;
-    width: 830px;
 }
